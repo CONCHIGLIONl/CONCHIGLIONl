@@ -1,13 +1,6 @@
 
 
-  WANTED‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-
-![image](https://github.com/user-attachments/assets/6c06d19d-76e3-4e65-ba73-750a0a18d83c) ‎ ‎ ‎
-
-  dead or alive
-
-I relate to zhongli (yes i drew this, no need to ask in whispers)
-![image](https://github.com/user-attachments/assets/89c1eaef-fcaa-412e-8f9b-baa8b02ad0fd)
+    <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Hi+It's+the+one+and+only;king;Conchiglioni!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 
 <!---
 Chichiwenk/Chichiwenk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
