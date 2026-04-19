@@ -8,6 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Sekuya&duration=4000&pause=1000&color=A7ACC6&background=00000024&width=435&lines=I'm+at+your+disposal.;)](https://git.io/typing-svg)
 
 
+w.i.p
 
 
 
